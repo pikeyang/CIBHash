@@ -6,8 +6,7 @@ A Pytorch implementation of paper "**Unsupervised Hashing with Contrastive Infor
 
 - torch 1.4.0
 - torchvision 0.5.0
-- Pillow 5.4.1
-- opencv-python 4.5.1.48
+- pip install seaborn pillow opencv-python
 
 
 
